@@ -1,0 +1,17 @@
+{
+    "name": "",
+    "description": "",
+    "authors": [
+        {
+            "name": "Brad Dunn",
+            "email": "brad@braddunn.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twitter/bootstrap": "v3.0.0"
+    },
+    "autoload": {
+        
+    }
+}
